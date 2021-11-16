@@ -1,0 +1,24 @@
+h1{font-family:Monotype Corsiva;
+   font-size:40px
+}
+body{background-image: url(../img/background.jpg);
+  background-size:cover;
+  background-attachment: scroll;}
+h3{font-family:Algerian;
+  font-size:20px
+  }
+p{font-size:30px;
+
+}
+.a1{font-family:cursive;}
+nav ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+nav ul li a{
+  text-decoration: none;
+}
+nav ul li{
+  margin-left:10px
+}
