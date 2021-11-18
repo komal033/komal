@@ -1,0 +1,19 @@
+p{background-color:pink}
+p{font-style:italic;
+  font-weight:bolder;
+  font-size:40px;
+  color:red
+
+
+}
+
+ p{font-variant:small-caps}
+ ul,li{
+   list-style-image:url(../img/icon.png);
+   height:50px;}
+ .a2{border: 12px dotted #ea0fb9;
+     border-radius: 34px;
+
+
+ }
+ body{background: #fff url(../img/ravan.jpg) center center/cover no-repeat;}
